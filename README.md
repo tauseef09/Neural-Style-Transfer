@@ -6,7 +6,7 @@ content image has been recreated in the style of the style image.
 
 ## Content Image
 <p align="center">
-    <img width="100" height="100" src="https://github.com/tauseef09/Neural-Style-Transfer/blob/master/input%20content/iut_resized3.jpg">
+    <img width="500" height="500" src="https://github.com/tauseef09/Neural-Style-Transfer/blob/master/input%20content/iut_resized3.jpg">
 </p>
 
 ## Style Image
